@@ -351,3 +351,11 @@ body{
 	color: #828282;
 	padding: 0 0 123px 0;
 }
+
+.buttonup {
+width:88px; 
+height:118px;
+position:fixed;
+bottom:20px;
+right:50px;
+}
